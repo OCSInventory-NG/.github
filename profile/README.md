@@ -37,6 +37,16 @@ We are aiming to provide the following major changes:
 </p>
 <br />
 
+<h2 align="center">Blog links</h2>
+<p align='justify'>
+
+**Updated : Jan 2026**
+
+You can find below our blog translated in English. These blog are in a Q&A format and try to explain what we've worked on for every component.
+
+- OCS Inventory: A complete overhaul to embrace tomorrow’s Technologies : https://www.ocsinventory-ng.com/en/post/ocs-inventory-a-complete-overhaul-to-embrace-tomorrow-s-technologies-the-interview
+- Reworking the OCS Inventory user interface: a key part of the user experience : https://www.ocsinventory-ng.com/en/post/refonte-du-frontend-d-ocs-inventory-un-composant-au-c%C5%93ur-de-l-exp%C3%A9rience-utilisateur-1
+
 <h2 align="center">Release timeline</h2>
 <p align='justify'>
 We are aiming to provide a first viable/market-ready version by the end of 2025.
